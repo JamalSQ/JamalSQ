@@ -69,11 +69,9 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-###Something Exciting
+</td></tr>
+<div align="center">
+### Something Exciting
 <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
   <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4N_soUiGggkq4TxayU7O_echs7FO8ISMD5w&s" alt="AI" height="50" />
 </a>
@@ -83,6 +81,13 @@
 <a href="https://en.wikipedia.org/wiki/Compiler_construction" target="_blank">
   <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtz_VvjQ5kcwo7ObKfsBxD_6F1smz-laywOQ&s" alt="Compiler Construction" height="50" />
 </a>
+</div>
+
+</table>  
+
+<br/>  
+
+
 
 
 
