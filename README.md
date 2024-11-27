@@ -75,13 +75,13 @@
 
 ###Something Exciting
 <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ai.svg" alt="AI" height="50" />
+  <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4N_soUiGggkq4TxayU7O_echs7FO8ISMD5w&s" alt="AI" height="50" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/data-science.svg" alt="Data Science" height="50" />
+  <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoePADyf3qztg_7ZrWAogW9t3BgY1Qwp_ktQ&s" alt="Data Science" height="50" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Compiler_construction" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/compiler-construction.svg" alt="Compiler Construction" height="50" />
+  <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtz_VvjQ5kcwo7ObKfsBxD_6F1smz-laywOQ&s" alt="Compiler Construction" height="50" />
 </a>
 
 
