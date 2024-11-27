@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Kubernetes  
   
 
-- ❓ Ask me about anything related to Website development and related technologies  
+- ❓ Ask me about anything related to Website development, mobile development and SEO and anything related to these technologies. 
   
 
 - ⚡ Fun fact: I am a student.  
