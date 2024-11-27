@@ -61,13 +61,28 @@
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  <a href="https://www.python.org/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python.svg" alt="Python" height="50" />
+</a>
+
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
 </td></tr></table>  
 
 <br/>  
+
+###Something Exciting
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ai.svg" alt="AI" height="50" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/data-science.svg" alt="Data Science" height="50" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Compiler_construction" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/compiler-construction.svg" alt="Compiler Construction" height="50" />
+</a>
+
 
 
 ## Connect with me  
